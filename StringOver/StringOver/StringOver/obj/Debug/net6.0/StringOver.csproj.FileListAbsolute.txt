@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\bin\Debug\net6.0\StringOver.exe
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\bin\Debug\net6.0\StringOver.deps.json
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\bin\Debug\net6.0\StringOver.runtimeconfig.json
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\bin\Debug\net6.0\StringOver.dll
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\bin\Debug\net6.0\StringOver.pdb
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\StringOver.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\StringOver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\StringOver.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\StringOver.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\StringOver.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\StringOver.dll
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\refint\StringOver.dll
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\StringOver.pdb
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\StringOver.genruntimeconfig.cache
+C:\Users\Admin\Documents\C#\Lab\StringOver\StringOver\StringOver\obj\Debug\net6.0\ref\StringOver.dll

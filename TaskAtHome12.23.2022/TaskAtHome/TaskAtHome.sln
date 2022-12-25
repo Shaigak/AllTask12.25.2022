@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAtHome", "TaskAtHome\TaskAtHome.csproj", "{DFAE9302-7537-4618-81C0-149E20ECF3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{58B89B12-8525-452D-9856-243BC98FFD6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAE9302-7537-4618-81C0-149E20ECF3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAE9302-7537-4618-81C0-149E20ECF3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAE9302-7537-4618-81C0-149E20ECF3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAE9302-7537-4618-81C0-149E20ECF3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B89B12-8525-452D-9856-243BC98FFD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B89B12-8525-452D-9856-243BC98FFD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B89B12-8525-452D-9856-243BC98FFD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B89B12-8525-452D-9856-243BC98FFD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF97C86F-1065-4C94-BA1A-215366759676}
+	EndGlobalSection
+EndGlobal
